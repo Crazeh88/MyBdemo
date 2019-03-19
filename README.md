@@ -8,4 +8,5 @@
 # a comment
 echo 'Hi all'
 echo '$VARIABLE'
+echo 'HI!!!!'
 ```
